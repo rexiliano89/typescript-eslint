@@ -46,7 +46,7 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
-    "@typescript-eslint/typescript-estree": "8.6.0",
+    "@typescript-eslint/typescript-estree": "0.1.0",
     "@typescript-eslint/utils": "8.6.0",
     "debug": "^4.3.4",
     "ts-api-utils": "^1.3.0"
