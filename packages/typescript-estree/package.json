@@ -55,7 +55,7 @@
   },
   "dependencies": {
     "@typescript-eslint/types": "8.6.0",
-    "@typescript-eslint/visitor-keys": "8.6.0",
+    "@typescript-eslint/visitor-keys": "3.5.0",
     "debug": "^4.3.4",
     "fast-glob": "^3.3.2",
     "is-glob": "^4.0.3",
